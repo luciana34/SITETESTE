@@ -1,0 +1,35 @@
+body{background-color: aqua;
+    test-align: center
+}
+
+h1 {color:azure;
+
+}
+
+h6{color:cadetblue
+
+
+}
+
+
+
+
+
+li{
+    display:flex;
+    aligan-items:center;
+    justfy-content:center;
+    gap:10px;
+
+}
+
+li img{
+    width: 30px;
+    height: 30px;
+
+}
+li:houver;{
+    color:
+
+}
+
